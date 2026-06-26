@@ -1,0 +1,10 @@
+{
+  "name": "coe-skill-template",
+  "description": "Canonical template and worked example for authoring a Trilogy AI CoE skill.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Trilogy AI Center of Excellence",
+    "email": "david.proctor@trilogy.com"
+  },
+  "keywords": ["template", "scaffold", "example", "aicoe"]
+}

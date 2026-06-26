@@ -1,0 +1,17 @@
+{
+  "name": "aicoe-skills",
+  "owner": {
+    "name": "Trilogy AI Center of Excellence",
+    "email": "david.proctor@trilogy.com"
+  },
+  "description": "Internal skill marketplace for the Trilogy AI Center of Excellence. Install CoE-authored Agent Skills into Claude Code, Cowork, and any SKILL.md-compatible runtime.",
+  "plugins": [
+    {
+      "name": "coe-skill-template",
+      "source": "./plugins/coe-skill-template",
+      "description": "Canonical template and worked example for authoring a Trilogy AI CoE skill. Copy this folder to start a new skill.",
+      "category": "templates",
+      "keywords": ["template", "scaffold", "example", "aicoe"]
+    }
+  ]
+}
